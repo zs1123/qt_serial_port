@@ -43,7 +43,6 @@ FORMS += \
         mainwindow.ui\
         settingsdialog.ui
 
-LIBS += -L"../stc" -llibusb-1.0
 QT += serialport
 
 # Default rules for deployment.
